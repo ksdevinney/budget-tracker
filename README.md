@@ -10,6 +10,6 @@ Transaction data is stored using MongoDB, a NoSQL database. The online functions
 
 ## How to Use
 
-This application can be run locally, and is (deployed on Heroku)[https://fast-fortress-79737.herokuapp.com/].
+This application can be run locally, and is [deployed on Heroku](https://fast-fortress-79737.herokuapp.com/).
 
 To run locally, `git clone` the code on your machine, then `npm i` to install dependencies and `npm start` to initialize the application. A MongoDB server should be running in the background.
