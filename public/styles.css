@@ -1,3 +1,8 @@
+* {
+  background-color: #bccad6;
+  color: #667292;
+}
+
 body {
   font-size: 120%;
   font-family: Arial;
@@ -34,7 +39,6 @@ tr:nth-child(even) {
 
 .total {
   font-size: 150%;
-  text-decoration: underline;
 }
 
 .form {
@@ -48,4 +52,12 @@ tr:nth-child(even) {
   overflow: auto;
   width: 90%;
   margin: 0 auto;
+}
+
+#add-btn, #sub-btn, input {
+  background-color: #f1e3dd;
+}
+
+#total {
+  text-shadow: 2px 2px 5px yellow;
 }
